@@ -2,7 +2,7 @@
 * Author:		xusongqi@live.com
 * 
 * Created Time: 2014年03月20日 星期四 18时42分19秒
-* 
+*  
 * FileName:     sock_client.c
 * 
 * Description:  
